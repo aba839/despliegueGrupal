@@ -1,1 +1,2 @@
 # entornosGrupal
+# Hola evelyn no sabemos a que te refieres con documentar el readme asi que estamos escribiendo esto. Nos acabamos de dar cuenta que hemos llamado al repositorio entornos no se porque, si no es entornos es despliegue pero bueno. Esperamos que este yendo todo bien. Un saludo.
