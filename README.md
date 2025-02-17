@@ -1,2 +1,2 @@
-# entornosGrupal
+# DespliegueGrupal
 # Vale evelyn vamos a explicarte que hemos hecho. Hemos creado la rama nueva-funcionalidad y le hemos añadido un index.html con su commit y su push. Despues yo(Alejandro) he hecho el pull request y Antonio lo ha aceptado para que en main saliera el archivo. Despues entre Antonio y Jaime cada uno ha creado su rama y ha cambiado el archivo poniendo hola soy "el nombre de cada uno" generando un conflicto ya que habian cambiado la misma linea con diferente informacion. Para resolver el conflicto hemos abierto el archivo y manuealmente hemos borrado todo y hemos dejado hola somos JAJA. Hemos vuelto a hacer el commit y ya nos ha dejado puesto que hemos resuelto el conflicto. Gracias. Un saludito.
